@@ -9,3 +9,22 @@ h1{
 p{
     color: red;
 }
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 32%;
+}
+#author{
+    border-radius: 100%;
+}
+img:hover{
+    filter: drop-shadow(0 0 5px red);
+}
+a:hover{
+    color: gold;
+}
+a{
+	color:red;
+}
